@@ -1,7 +1,5 @@
 Muscle Nutrition Projem Wissen Akademie bitirme projemdir bu projeme ek olarak yeni sayfalar,kayıt olma ve puanlama işlemi getiriceğim de web tabanlı kodlar kullanarak yazdığım sade ve hoş bir arayüz kullandığım protein ve benzeri medikal denilebilecek ürünlerin satımı sayfasıdır!
-
-
-(https://user-images.githubusercontent.com/112180158/224572413-261debe3-8577-41f9-a64d-c0507dafbf86.jpg)
+![Adsız04](https://user-images.githubusercontent.com/112180158/224572633-93da2894-ed91-4451-9079-94e32088e314.jpg)
 
 ![Adsız03](https://user-images.githubusercontent.com/112180158/224572421-373987fa-b48c-4450-9d24-7a8b8ea84396.jpg)
 
